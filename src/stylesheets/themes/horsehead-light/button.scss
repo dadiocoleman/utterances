@@ -1,0 +1,14 @@
+.btn-primary {
+  background-color: transparent;
+  background-image: none;
+  border: none;
+  color: #910000;
+}
+
+.btn-primary:hover {
+  color: #111;
+}
+
+.btn-primary:disabled {
+  color: #777;
+}
