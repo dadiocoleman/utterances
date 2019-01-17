@@ -4,11 +4,12 @@
   border: none;
   color: #910000;
 }
-
 .btn-primary:hover {
   color: #111;
 }
-
 .btn-primary:disabled {
   color: #777;
+}
+* {
+  border-radius: 0; 
 }
